@@ -12,25 +12,6 @@ body {
   line-height: 1.6;
 }
 
-/* Sticky booking button */
-.sticky-book-btn {
-  position: fixed;
-  bottom: 12px;
-  left: 8px;
-  right: 8px;
-  z-index: 999;
-  display: block;
-  text-align: center;
-  padding: 14px 16px;
-  background-color: #1F3A5F; /* Deep Ocean Blue */
-  color: #FAF9F6; /* Shell White */
-  font-family: 'Montserrat', sans-serif;
-  font-weight: 600;
-  border-radius: 16px;
-  text-decoration: none;
-  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.18);
-}
-
 /* Hero */
 .hero {
   min-height: 80vh;
