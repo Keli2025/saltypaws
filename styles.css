@@ -272,11 +272,8 @@ body {
   .hero {
     min-height: 70vh;
   }
-
-  .sticky-book-btn {
-    max-width: 420px;
-    margin: 0 auto;
-    left: 50%;
-    transform: translateX(-50%);
-  }
 }
+ 
+
+  
+
